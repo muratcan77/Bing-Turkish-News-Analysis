@@ -1,4 +1,4 @@
-![324793617-5ee6d206-1278-42a1-aab8-c291b68e4ef8](https://github.com/user-attachments/assets/4723408c-3195-429f-a64f-d976607a9e48)Bing News Analysis with Microsoft Fabric
+Bing News Analysis with Microsoft Fabric
 This project is a complete end-to-end solution that leverages Microsoft Fabric tools to gather, analyze, and visualize news data from Bing News. The main objectives were to collect the latest news daily, perform sentiment analysis, and display the results using Power BI. Additionally, an alert system was integrated to notify users based on the positivity of the news content.
 ![324793617-5ee6d206-1278-42a1-aab8-c291b68e4ef8](https://github.com/user-attachments/assets/f6a9643f-f6ea-45a8-a837-f82660387c8e)
 
